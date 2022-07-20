@@ -26,15 +26,15 @@ roslaunch simple_grasping basic_perception_dbg.launch
 
 ### References
 
-1)[GitHub - cambel/ur3: ROS-based UR3/UR3e controller with simulation in Gazebo. Adaptable to other UR robots](https://github.com/cambel/ur3)
+1) [GitHub - cambel/ur3: ROS-based UR3/UR3e controller with simulation in Gazebo. Adaptable to other UR robots](https://github.com/cambel/ur3)
 
-2)[GitHub - UniversalRobots/Universal_Robots_ROS_Driver: Universal Robots ROS driver supporting CB3 and e-Series](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)
+2) [GitHub - UniversalRobots/Universal_Robots_ROS_Driver: Universal Robots ROS driver supporting CB3 and e-Series](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)
 
-3)[GitHub - ros-industrial/universal_robot at melodic-devel](https://github.com/ros-industrial/universal_robot/tree/melodic-devel)
+3) [GitHub - ros-industrial/universal_robot at melodic-devel](https://github.com/ros-industrial/universal_robot/tree/melodic-devel)
 
-4)[Getting Started with a Universal Robot and ROS-Industrial](http://wiki.ros.org/universal_robot/Tutorials/Getting%20Started%20with%20a%20Universal%20Robot%20and%20ROS-Industrial)
+4) [Getting Started with a Universal Robot and ROS-Industrial](http://wiki.ros.org/universal_robot/Tutorials/Getting%20Started%20with%20a%20Universal%20Robot%20and%20ROS-Industrial)
 
-5)[GitHub - trabelsim/UR3_with_Robotiq_gripper_85: This project has been developed with the goal of creating a system to control the cobot. Here the Cobot UR3 Series with the attached gripper can be controlled from Rviz as as well from the terminal by using scripts written in python.](https://github.com/trabelsim/UR3_with_Robotiq_gripper_85)
+5) [GitHub - trabelsim/UR3_with_Robotiq_gripper_85: This project has been developed with the goal of creating a system to control the cobot. Here the Cobot UR3 Series with the attached gripper can be controlled from Rviz as as well from the terminal by using scripts written in python.](https://github.com/trabelsim/UR3_with_Robotiq_gripper_85)
 
 ### Notes:
 
