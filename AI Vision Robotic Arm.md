@@ -40,9 +40,7 @@ roslaunch simple_grasping basic_perception_dbg.launch
 
 The first reference listed above is the most important since it has a map that shows where the important nodes should be located.
 
-For any enquiry you can mail us at 
-
-[](https://www.linkedin.com/in/samer-raed-a-068133ab/)
+For any enquiry you can mail us at [LinkedIn](https://www.linkedin.com/in/samer-raed-a-068133ab/).
 
 ### Research paper:
 
